@@ -119,12 +119,12 @@ input {
 }
 
 :focus {
-  border: 2px solid blue;
+  border-color: blue;
   box-shadow: 4px 2px 2px var(--lightBorder);
 }
 
 :invalid {
-  border: red;
+  border-color: red;
 }
 
 footer {
